@@ -1,9 +1,5 @@
 # Draw boxes over an image
 
-### What does this do?
-
-# Draw boxes over an image
-
 ### How to download
 1. Clone this repo
 2. Open `index.html` using your browser.
