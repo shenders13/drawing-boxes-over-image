@@ -16,5 +16,5 @@
 <img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/one.png" /><br/>
 <img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/two.png" /><br/>
 <img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/three.png" /><br/>
-<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/one.four" />
+<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/four.png" />
 
