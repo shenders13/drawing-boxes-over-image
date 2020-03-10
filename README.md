@@ -13,8 +13,8 @@
 
 # Screenshots
 
-<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/one.png" /><br/>
-<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/two.png" /><br/>
-<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/three.png" /><br/>
-<img src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/four.png" />
+<img width="600" src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/one.png" /><br/>
+<img width="600" src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/two.png" /><br/>
+<img width="600" src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/three.png" /><br/>
+<img width="600" src="https://raw.githubusercontent.com/shenders13/drawing-boxes-over-image/master/screenshots/four.png" />
 
