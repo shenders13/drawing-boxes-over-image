@@ -1,0 +1,25 @@
+<!--
+Implement an interface for drawing 2D bounding boxes on top of an image.
+
+Requirements:
+- The user should be able to click-and-drag on the image to draw a box.
+- Boxes should remain on the image after they are drawn.
+- Boxes should be able to overlap each other.
+- Display a list of the boxes next to the image with position, width, and height of each box.
+-->
+
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <img id="image" />
+    <svg id="svg"></svg>
+    <section class="title-and-button">
+      <span>Boxes</span>
+      <button onclick="window.location.reload()">Refresh image</button>
+    </section>
+    <ul id="list" />
+    <script src="index.js"></script>
+  </body>
+</html>

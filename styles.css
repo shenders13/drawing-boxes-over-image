@@ -1,0 +1,78 @@
+body {
+  background-color: #1d2126;
+  color: white;
+}
+
+#image {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  pointer-events: none;
+}
+
+svg {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  cursor: crosshair;
+}
+
+rect {
+  stroke-width: 1;
+}
+
+#list {
+  position: absolute;
+  margin-top: 480px;
+  width: 100%;
+  background: #00000020;
+  padding-left: 0px;
+  max-width: 600px;
+}
+
+.title-and-button {
+  position: absolute;
+  display: flex;
+  margin-top: 420px;
+  color: white;
+  font-size: 32px;
+  font-family: monospace;
+  width: 600px;
+  justify-content: space-between;
+}
+
+button {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  -webkit-letter-spacing: 0.5px;
+  -moz-letter-spacing: 0.5px;
+  -ms-letter-spacing: 0.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  background: rgb(237, 114, 226);
+  border: none;
+  outline: none;
+  padding: 14px 20px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.03), 0 1px 0 rgba(0, 0, 0, 0.05),
+    0 1px 3px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  font-family: monospace;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  border-top: solid 1px #d0d0d0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 15px;
+  font-family: monospace;
+  margin-left: 0;
+  padding-left: 12px;
+}
